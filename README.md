@@ -8,7 +8,7 @@
 
 ## [Cvičenia - Exercises](https://github.com/FIIT-IAU/2021-2022/tree/master/cvicenia)
 
-## [Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2021-2022/blob/master/rozne/README.md) - [MS Teams](https://teams.microsoft.com)
+## [Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2021-2022/blob/main/rozne/README.md) - [MS Teams](https://teams.microsoft.com)
 
 
 Literatúry - Literature
