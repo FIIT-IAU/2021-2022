@@ -14,7 +14,7 @@
 | 9.     | 2021   | Bonusové zadanie nepovinné                                  | Odovzdávanie 2. fázy projektu + do AISu do **22.11.2020 23:59**  |
 | 10.    | 2021   | Vybrané metódy strojového učenia                            |                                              |
 | 11.    | 2021   | Optimalizácia                                               | Konzultácia k projektu                       |
-| 12.    | 2021   |                                                             | Odovzdávanie 2. fázy projektu + do AISu do **13.12.2020 23:59**  |
+| 12.    | 2021   |                                                             | Odovzdávanie 3. fázy projektu + do AISu do **13.12.2020 23:59**  |
 |        |        |                                                             |                                              |
 
 Bonusové zadanie: odovzdávanie do systému AIS do **20.12.2020 23:59** (len jeden termín lebo ide skúšobné obdobie)
