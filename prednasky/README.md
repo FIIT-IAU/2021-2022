@@ -24,3 +24,8 @@
 11. Lecture 2021 Numerical optimization and simulations - [Numerická optimalizácia a simulácie]() 
 
 12. Lecture 2021 Advanced topics in Data Science and Artificial Intelligence - [Pokročilé témy v oblasti dátovej vedy a umelej inteligencie]() 
+
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
