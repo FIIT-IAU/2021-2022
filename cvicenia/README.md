@@ -4,8 +4,8 @@
 | Týždeň |        | Cvičenie                                                    | Projekt                                      |
 | :------| :----: | ----------------------------------------------------------: | -------------------------------------------: |
 | 1.     | 2021   | Python virtual environments                                 | Hľadanie partnera na projekt                 |
-| 2.     | 2021   | Základné použitie jazyka Python a knižníc na prácu s dátami | Organizácia v dvojiciach + Zadanie projektu  |
-| 3.     | 2021   | Základy prieskumnej analýzy a vizualizácie údajov           |                                              |
+| 2.     | 2021   | Základné použitie jazyka Python a knižníc na prácu s dátami |                                              |
+| 3.     | 2021   | Základy prieskumnej analýzy a vizualizácie údajov           | Organizácia v dvojiciach + Zadanie projektu  |
 | 4.     | 2021   | Knižnice na prácu s dátami (pokračovanie)                   |                                              |
 | 5.     | 2021   | Prieskumná analýza s využitím štatistickej analýzy          | Konzultácia k projektu                       |
 | 6.     | 2021   | -                                                           | Odovzdávanie 1. fázy projektu + do AISu do **01.11.2020 23:59**  |
