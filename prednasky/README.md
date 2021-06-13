@@ -1,7 +1,7 @@
 # Inteligentná analýza údajov - Intelligent Data Analysis
 ## Prednášky - Lectures
 
-| Lecture | Date   | EN                                                          | SK                                                          |
+| Week    | Date   | EN                                                          | SK                                                          |
 | :-------| :----: | ----------------------------------------------------------: | ----------------------------------------------------------: |
 | 1.      | 2021   | Introduction to intelligent data analysis                   | Úvod do inteligentnej analýzy údajov                        |
 | 2.      | 2021   | Introduction to data processing in Python                   | Úvod do spracovania údajov v jazyku Python                  |
