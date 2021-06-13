@@ -1,58 +1,23 @@
 # Inteligentná analýza údajov - Intelligent Data Analysis
 ## Cvičenia - Exercises
 
-### 1. týždeň
-
-Python virtual environments + Hľadanie partnera na Projekt
-
-### 2. týždeň
-
-Základné použitie jazyka Python a knižníc na prácu s dátami
-
-### 3. týždeň
-
-Základy prieskumnej analýzy a vizualizácie údajov + [Projekt: organizácia v dvojiciach, zadanie projektu]()
-
-### 4. týždeň
-
-Knižnice na prácu s dátami (pokračovanie)
-
-### 5. týždeň
-
-Prieskumná analýza s využitím štatistickej analýzy + konzultácia k projektu
-
-### 6. týždeň
-
-Projekt: odovzdávanie 1. fázy projektu + do systému AIS do **01.11.2020 23:59**
-
-### 7. týždeň
-
-Predspracovanie textových dát v Pythone
-
-### 8. týždeň
-
-Vyhodnotenie modelov + konzultácia k projektu
-
-### 9. týždeň
-
-Projekt: odovzdávanie 2. fázy projektu + do systému AIS do **22.11.2020 23:59**
-
-[Bonusové zadanie - nepovinné]()
-
-### 10. týždeň
-
-Vybrané metódy strojového učenia na modelovanie dát: lineárna a logistická regresia, rozhodovacie stromy
-
-### 11. týždeň
-
-Optimalizácia + konzultácia k projektu
-
-### 12. týždeň
-
-Projekt: odovzdávanie 3. fázy projektu + do systému AIS do **13.12.2020 23:59**
+| Týždeň |        | Cvičenie                                                    | Projekt                                      |
+| :------| :----: | ----------------------------------------------------------: | -------------------------------------------: |
+| 1.     | 2021   | Python virtual environments                                 | Hľadanie partnera na projekt                 |
+| 2.     | 2021   | Základné použitie jazyka Python a knižníc na prácu s dátami | Organizácia v dvojiciach + Zadanie projektu  |
+| 3.     | 2021   | Základy prieskumnej analýzy a vizualizácie údajov           |                                              |
+| 4.     | 2021   | Knižnice na prácu s dátami (pokračovanie)                   |                                              |
+| 5.     | 2021   | Prieskumná analýza s využitím štatistickej analýzy          | Konzultácia k projektu                       |
+| 6.     | 2021   | -                                                           | Odovzdávanie 1. fázy projektu + do AISu do **01.11.2020 23:59**  |
+| 7.     | 2021   | Predspracovanie textových dát v Pythone                     |                                              |
+| 8.     | 2021   | Vyhodnotenie modelov                                        | Konzultácia k projektu                       |
+| 9.     | 2021   | Bonusové zadanie nepovinné                                  | Odovzdávanie 2. fázy projektu + do AISu do **22.11.2020 23:59**  |
+| 10.    | 2021   | Vybrané metódy strojového učenia                            |                                              |
+| 11.    | 2021   | Optimalizácia                                               | Konzultácia k projektu                       |
+| 12.    | 2021   | -                                                           | Odovzdávanie 2. fázy projektu + do AISu do **13.12.2020 23:59**  |
+|        |        |                                                             |                                              |
 
 Bonusové zadanie: odovzdávanie do systému AIS do **20.12.2020 23:59** (len jeden termín lebo ide skúšobné obdobie)
-
 
 ## Upozornenie
 
