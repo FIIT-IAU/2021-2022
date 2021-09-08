@@ -8,13 +8,13 @@
 | 3.  | 2021   | Základy prieskumnej analýzy a vizualizácie údajov    | Organizácia v dvojiciach + Zadanie projektu  |
 | 4.  | 2021   | Knižnice na prácu s dátami (pokračovanie)            |                                              |
 | 5.  | 2021   | Prieskumná analýza s využitím štatistickej analýzy   | Konzultácia k projektu                       |
-| 6.  | 2021   | ---                                                  | Odovzdávanie 1. fázy projektu + do AISu do **01.11.2020 23:59**  |
+| 6.  | 2021   | ---                                                  | Odovzdávanie 1. fázy projektu + do AISu do **31.11.2020 23:59**  |
 | 7.  | 2021   | Predspracovanie textových dát v Pythone              |                                              |
 | 8.  | 2021   | Vyhodnotenie modelov                                 | Konzultácia k projektu                       |
-| 9.  | 2021   | --- Bonusové zadanie **nepovinné** ---               | Odovzdávanie 2. fázy projektu + do AISu do **22.11.2020 23:59**  |
+| 9.  | 2021   | --- Bonusové zadanie **nepovinné** ---               | Odovzdávanie 2. fázy projektu + do AISu do **21.11.2020 23:59**  |
 | 10. | 2021   | Vybrané metódy strojového učenia                     |                                              |
 | 11. | 2021   | Optimalizácia                                        | Konzultácia k projektu                       |
-| 12. | 2021   | ---                                                  | Odovzdávanie 3. fázy projektu + do AISu do **13.12.2020 23:59**  |
+| 12. | 2021   | ---                                                  | Odovzdávanie 3. fázy projektu + do AISu do **12.12.2020 23:59**  |
 |     |        |                                                      |                                              |
 
 Bonusové zadanie: odovzdávanie do systému AIS do **20.12.2020 23:59**. Pozor: len jeden termín lebo ide skúšobné obdobie.
