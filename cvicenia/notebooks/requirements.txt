@@ -11,7 +11,10 @@ jupyterlab
 nltk
 gensim
 category_encoders
+graphviz
+mlxtend  
 tensorflow
 keras
 h5py
 python-dateutil
+pyspark
