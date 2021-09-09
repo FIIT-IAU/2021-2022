@@ -6,7 +6,7 @@
 
 ## [Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2021-2022/blob/main/rozne/README.md)
 
-## [IAU - MS Teams](https://teams.microsoft.com/l/team/19%3aG8St_uY30w69nQiXUAA-g9CiwZHvUm4w5qg2g5eK7w01%40thread.tacv2/conversations?groupId=789f7258-db27-499d-a196-dea8bd564bb7&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06)
+## [2021 FIIT-IAU in MS Teams](https://teams.microsoft.com/l/team/19%3aG8St_uY30w69nQiXUAA-g9CiwZHvUm4w5qg2g5eK7w01%40thread.tacv2/conversations?groupId=789f7258-db27-499d-a196-dea8bd564bb7&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06)
 
 
 Literatúry - Literature
