@@ -17,7 +17,7 @@
 | 12. | 2021   | ---                                                  | Odovzdávanie 3. fázy projektu + do AISu do **12.12.2020 23:59**  |
 |     |        |                                                      |                                              |
 
-Bonusové zadanie: odovzdávanie do systému AIS do **20.12.2020 23:59**. Pozor: len jeden termín lebo ide skúšobné obdobie.
+Bonusové zadanie: odovzdávanie do systému AIS do **19.12.2021 23:59**. Pozor: len jeden termín lebo ide skúšobné obdobie.
 
 ## Upozornenie
 
