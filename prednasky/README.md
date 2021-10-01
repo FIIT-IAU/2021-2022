@@ -3,8 +3,8 @@
 
 |         |              | EN                                                          | SK                                                          |
 | :-------| :----------: | ----------------------------------------------------------: | ----------------------------------------------------------: |
-| 1.      | 23.09.2021   | Introduction to intelligent data analysis                   | [Úvod do inteligentnej analýzy údajov](https://docs.google.com/presentation/d/158Np8xuvO8XFn94PuyXi2fVbi7qR_agvgoEgX5njgR8/present?usp=sharing)                        |
-| 2.      | 30.09.2021   | Introduction to data processing in Python                   | [Úvod do spracovania údajov v jazyku Python](https://docs.google.com/presentation/d/10BBgiIQemlg9TJMifJs3sGxqzj2QneT2jguTwUgVu8U/present?usp=sharing)                  |
+| 1.      | 23.09.2021   | [Introduction to intelligent data analysis](https://docs.google.com/presentation/d/158Np8xuvO8XFn94PuyXi2fVbi7qR_agvgoEgX5njgR8/present?usp=sharing)                   | [Úvod do inteligentnej analýzy údajov](https://docs.google.com/presentation/d/158Np8xuvO8XFn94PuyXi2fVbi7qR_agvgoEgX5njgR8/present?usp=sharing)                        |
+| 2.      | 30.09.2021   | [Introduction to data processing in Python](https://docs.google.com/presentation/d/10BBgiIQemlg9TJMifJs3sGxqzj2QneT2jguTwUgVu8U/present?usp=sharing)                   | [Úvod do spracovania údajov v jazyku Python](https://docs.google.com/presentation/d/10BBgiIQemlg9TJMifJs3sGxqzj2QneT2jguTwUgVu8U/present?usp=sharing)                  |
 | 3.      | 07.10.2021   | Exploratory Data Analysis and data visualization            | Prieskumná analýza a vizualizácia údajov                    |
 | 4.      | 14.10.2021   | Data gathering and data integration                         | Získavanie a prepájanie údajov                              |
 | 5.      | 21.10.2021   | Exploratory Data Analysis using statistical analysis        | Prieskumná analýza s využitím štatistickej analýzy          |
