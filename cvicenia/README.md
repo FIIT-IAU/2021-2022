@@ -13,7 +13,7 @@
 | 8.  | 2021   | Vyhodnotenie modelov                                 | Konzultácia k projektu                       |
 | 9.  | 2021   | --- Bonusové zadanie **nepovinné** ---               | Odovzdávanie 2. fázy projektu + do AISu do **21.11.2021 23:59**  |
 | 10. | 2021   | Vybrané metódy strojového učenia                     |                                              |
-| 11. | 2021   | Optimalizácia + DL (CNN, RNN)                        | Konzultácia k projektu                       |
+| 11. | 2021   | Optimalizácia + Vybrané architektúry hlbokého učenia | Konzultácia k projektu                       |
 | 12. | 2021   | ---                                                  | Odovzdávanie 3. fázy projektu + do AISu do **12.12.2021 23:59**  |
 |     |        |                                                      |                                              |
 
