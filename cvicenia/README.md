@@ -10,7 +10,7 @@
 | 5.  | 2021   | Prieskumná analýza s využitím štatistickej analýzy   |                                              |
 | 6.  | 2021   | ---                                                  | Odovzdávanie 1. fázy projektu + do AISu do **31.10.2021 23:59**  |
 | 7.  | 2021   | Predspracovanie dát v Pythone + NLP techniky         |                                              |
-| 8.  | 2021   | Vyhodnotenie modelov                                 |                                              |
+| 8.  | 2021   | Výber a vyhodnotenie modelov                                 |                                              |
 | 9.  | 2021   | --- Bonus **nepovinný** ---                          | Odovzdávanie 2. fázy projektu + do AISu do **21.11.2021 23:59**  |
 | 10. | 2021   | Vybrané metódy strojového učenia                     |                                              |
 | 11. | 2021   | Optimalizácia + Vybrané architektúry hlbokého učenia |                                              |
