@@ -6,11 +6,7 @@
 **Prednášky:**  Štvrtok, -1.61, 12:00-13:50      
 
 **Cvičenie:**
-* Pondelok, 
-* Utorok, 
-* Streda,  
-* Štvrtok,  
-* Piatok,   
+* Pondelok, Utorok, Streda, Štvrtok, Piatok   
 
 ## Podmienky na absolvovanie predmetu
 Cvičenie a projekt vo dvojiciach: **max. 60% = 60 bodov**
