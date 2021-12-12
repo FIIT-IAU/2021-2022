@@ -42,4 +42,5 @@ Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a 
 - ak získa najmenej 56 bodov je hodnotený klasifikačným stupňom E, 
 - ak získa menej ako 56 bodov je hodnotený klasifikačným stupňom FX. 
 
-Za samozrejmosť sa považuje dodržanie pravidiel akademickej korektnosti a čestnosti. Akékoľvek vydávanie cudzej práce za vlastnú je neakceptovateľné, a to v akomkoľvek rozsahu. Ak sa ho dopustíte, automaticky to znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
+Za samozrejmosť sa považuje dodržiavanie etiky a morálky, rovnako aj rešpektovanie zákonov, pravidiel korektnosti a čestnosti.
+(Ak sa ho dopustíte, automaticky znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.)
