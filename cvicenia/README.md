@@ -9,7 +9,7 @@
 | 4.  | 2021   | Knižnice na prácu s dátami (pokračovanie)            |                                              |
 | 5.  | 2021   | Prieskumná analýza s využitím štatistickej analýzy   |                                              |
 | 6.  | 2021   | Predspracovanie dát v Pythone                        | Odovzdávanie 1. fázy do AISu do **31.10.2021 23:59**  |
-| 7.  | 2021   | Extrakcia atributov pomocou NLP techníky             |                                              |
+| 7.  | 2021   | Extrakcia atribútov pre strojové učenie pomocou NLP  |                                              |
 | 8.  | 2021   | Výber a vyhodnotenie modelov                         |                                              |
 | 9.  | 2021   | Vybrané metódy strojového učenia                     | **Bonus** + Odovzdávanie 2. fázy do AISu do **21.11.2021 23:59**  |
 | 10. | 2021   | Vybrané metódy strojového učenia                     |                                              |
