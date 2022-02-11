@@ -5,7 +5,7 @@
 | :---| :----: | ---------------------------------------------------: | -------------------------------------------: |
 | 1.  | 2021   | Python virtual environments                          | Hľadanie partnera na projekt                 |
 | 2.  | 2021   | Python a knižníce na prácu s dátami                  |                                              |
-| 3.  | 2021   | Základy prieskumnej analýzy a vizualizácie údajov    | Organizácia v dvojiciach + **Zadanie projektu**  |
+| 3.  | 2021   | Základy prieskumnej analýzy a vizualizácie údajov    | **Zadanie projektu** + Organizácia v dvojiciach |
 | 4.  | 2021   | Knižnice na prácu s dátami (pokračovanie)            |                                              |
 | 5.  | 2021   | Prieskumná analýza s využitím štatistickej analýzy   |                                              |
 | 6.  | 2021   | ---                                                  | Odovzdávanie 1. fázy do AISu do **31.10.2021 23:59**  |
