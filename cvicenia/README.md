@@ -8,13 +8,13 @@
 | 3.  | 2021   | Základy prieskumnej analýzy a vizualizácie údajov    | **Zadanie projektu** + Organizácia v dvojiciach |
 | 4.  | 2021   | Knižnice na prácu s dátami (pokračovanie)            |                                              |
 | 5.  | 2021   | Prieskumná analýza s využitím štatistickej analýzy   |                                              |
-| 6.  | 2021   | ---                                                  | Odovzdávanie 1. fázy do AISu do **31.10.2021 23:59**  |
-| 7.  | 2021   | Predspracovanie dát v Pythone + NLP techniky         |                                              |
+| 6.  | 2021   | Predspracovanie dát v Pythone                        | Odovzdávanie 1. fázy do AISu do **31.10.2021 23:59**  |
+| 7.  | 2021   | Extrakcia atributov pomocou NLP techníky             |                                              |
 | 8.  | 2021   | Výber a vyhodnotenie modelov                         |                                              |
-| 9.  | 2021   | ---                                                  | **Bonus** + Odovzdávanie 2. fázy do AISu do **21.11.2021 23:59**  |
+| 9.  | 2021   | Vybrané metódy strojového učenia                     | **Bonus** + Odovzdávanie 2. fázy do AISu do **21.11.2021 23:59**  |
 | 10. | 2021   | Vybrané metódy strojového učenia                     |                                              |
-| 11. | 2021   | Optimalizácia + Vybrané architektúry hlbokého učenia |                                              |
-| 12. | 2021   | ---                                                  | Odovzdávanie 3. fázy do AISu do **12.12.2021 23:59**  |
+| 11. | 2021   | Optimalizácia + Apache Spark                         |                                              |
+| 12. | 2021   | Vybrané architektúry hlbokého učenia                 | Odovzdávanie 3. fázy do AISu do **12.12.2021 23:59**  |
 |     |        |                                                      |                                              |
 
 Bonusové zadanie: odovzdávanie do systému AIS do **20.12.2021 00:00**. Pozor: len jeden termín lebo ide skúšobné obdobie.
