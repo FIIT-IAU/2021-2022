@@ -6,7 +6,7 @@
 | 1.  | 2021   | Python virtual environments                          | Hľadanie partnera na projekt                 |
 | 2.  | 2021   | Python a knižnice na prácu s dátami                  |                                              |
 | 3.  | 2021   | Základy prieskumnej analýzy a vizualizácie údajov    | **Zadanie projektu** + Organizácia v dvojiciach |
-| 4.  | 2021   | Python a knižnice na prácu s dátami (pokračovanie)   |                                              |
+| 4.  | 2021   | Python a knižnice s dátami (pokračovanie)            |                                              |
 | 5.  | 2021   | Prieskumná analýza s využitím štatistickej analýzy   |                                              |
 | 6.  | 2021   | Predspracovanie dát v Pythone                        | Odovzdávanie 1. fázy do AISu do **31.10.2021 23:59**  |
 | 7.  | 2021   | Extrakcia atribútov pre strojové učenie pomocou NLP  |                                              |
