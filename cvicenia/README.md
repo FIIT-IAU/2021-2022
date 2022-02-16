@@ -1,5 +1,5 @@
-# Inteligentná analýza údajov - Intelligent Data Analysis
-## Cvičenia - Exercises
+# Inteligentná analýza údajov - Intelligent Data Analysis - Introduction to Data Science
+## Cvičenia / Exercises
 
 |     |        | Cvičenie (notebooks)                                 | Projekt                                      |
 | :---| :----: | ---------------------------------------------------: | -------------------------------------------: |
