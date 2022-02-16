@@ -1,8 +1,9 @@
 #  Inteligentná analýza údajov - Intelligent Data Analysis
+## Introduction to Data Science
 
-## [Prednášky - Lectures](https://github.com/FIIT-IAU/2021-2022/tree/master/prednasky)
+## [Prednášky / Lectures](https://github.com/FIIT-IAU/2021-2022/tree/master/prednasky)
 
-## [Cvičenia - Exercises](https://github.com/FIIT-IAU/2021-2022/tree/master/cvicenia)
+## [Cvičenia / Exercises](https://github.com/FIIT-IAU/2021-2022/tree/master/cvicenia)
 
 ## [Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2021-2022/blob/main/rozne/README.md) 
 
