@@ -17,7 +17,7 @@ Literatúry - Literature
 
 - Shaw, Z.A., 2017. Learn python 3 the hard way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional. ISBN 978-0134692883.
 
-Course textbook (writing preparation in 2021/2022)
+Course textbook (writing preparation in 2021/2022) 
 ------------
 - Nguyen, G., 2022. Introduction to Data Science. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available in [ [ ELVIRA ] ](http://elvira.fiit.stuba.sk/).
 ```
