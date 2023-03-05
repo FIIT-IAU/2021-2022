@@ -11,7 +11,7 @@
 
 ### Course textbook (writing preparation in 2021/2022)
 ------------
-- Nguyen, G., 2022. Introduction to Data Science. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available in [ [ ELVIRA ] ](http://elvira.fiit.stuba.sk/).
+- Nguyen, G., 2022. Introduction to Data Science. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available in [ ELVIRA ](https://elvira.fiit.stuba.sk/library/pdf-viewer/765297eb-be49-4013-857e-ad3438726942).
 ```
     @book{nguyen2022ds,   
       author = {Nguyen, Giang},  
