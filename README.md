@@ -1,4 +1,7 @@
 #  Inteligentná analýza údajov - Intelligent Data Analysis
+
+Archived -> Current version [https://github.com/FIIT-IAU/course](https://github.com/FIIT-IAU/course)
+
 ## Introduction to Data Science
 
 ### [Prednášky / Lectures](https://github.com/FIIT-IAU/2021-2022/tree/master/prednasky)
